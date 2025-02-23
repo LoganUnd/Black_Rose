@@ -47,7 +47,7 @@ html {
     font-weight: 400;
     font-size: 60px;
     text-transform: uppercase;
-    color: blue;
+    color: var(--light-color);
     line-height: normal;
 }
 
